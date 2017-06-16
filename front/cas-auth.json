@@ -1,0 +1,9 @@
+{
+    "name": "CAS Auth",
+    "slug": "cas-auth",
+    "description": "Authenticate with CAS accounts.",
+    "type": "auth",
+    "module": "taigaContrib.casAuth",
+    "template": "/plugins/cas-auth/cas-auth.html",
+    "js": "/plugins/cas-auth/cas-auth.js"
+}

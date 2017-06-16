@@ -1,0 +1,12 @@
+back/taiga_contrib_cas_auth.egg-info/
+back/dist/
+back/README.md
+back/MANIFEST
+back/LICENSE
+back/taiga_contrib_cas_auth/__pycache__/
+back/.eggs/
+back/taiga_contrib_cas_auth_official.egg-info/
+back/tests/__pycache__/
+front/node_modules/
+**/*.swp
+**/*.pyc
