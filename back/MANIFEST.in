@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+include versiontools_support.py
+recursive-include taiga_contrib_cas_auth/i18n *

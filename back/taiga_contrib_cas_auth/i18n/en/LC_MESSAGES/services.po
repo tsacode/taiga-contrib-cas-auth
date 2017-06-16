@@ -1,0 +1,60 @@
+# French translations for 1.1 package
+# Traductions françaises du paquet 1.1.
+# Copyright (C) 2017 THE 1.1'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the 1.1 package.
+# Louis ROSE <louis.rose.pro@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-24 15:12+0200\n"
+"PO-Revision-Date: 2017-05-24 15:16+0200\n"
+"Last-Translator: lrose <lrose@lbl.gcstsa.fr>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: taiga_contrib_cas_auth/services.py:17
+msgid "CAS_CREATE disabled"
+msgstr "CAS_CREATE is disabled"
+
+#: taiga_contrib_cas_auth/services.py:18
+msgid "CAS_BIND disabled"
+msgstr "CAS_BIND is disabled"
+
+#: taiga_contrib_cas_auth/services.py:19
+msgid ""
+"Neither your CAS email nor your CAS username match with Taiga's username and "
+"email"
+msgstr "Neither your CAS email nor your CAS username match with Taiga's username and"
+
+#: taiga_contrib_cas_auth/services.py:20
+msgid "Another user has already registered with your CAS account's email"
+msgstr "Another user has already registered with your CAS account's email"
+
+#: taiga_contrib_cas_auth/services.py:21
+msgid "Another user has already registered with your CAS account's username"
+msgstr "Another user has already registered with your CAS account's username"
+
+#: taiga_contrib_cas_auth/services.py:22 taiga_contrib_cas_auth/services.py:23
+msgid ""
+"User has already registered your CAS account's username but not your CAS "
+"account's email"
+msgstr "User has already registered your CAS account's username but not your CAS account's email"
+
+#: taiga_contrib_cas_auth/services.py:22 taiga_contrib_cas_auth/services.py:23
+msgid ""
+"User has already registered your CAS account's email but not your CAS "
+"account's username"
+msgstr "User has already registered your CAS account's email but not your CAS account's username"
+
+#: taiga_contrib_cas_auth/services.py:24 taiga_contrib_cas_auth/services.py:42
+msgid ""
+"One user already registered your cas username, and another user registered "
+"your cas email"
+msgstr "A Taiga user has already registered your cas username, and another one "
+"has registered your cas email"
